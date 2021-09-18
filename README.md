@@ -1,2 +1,3 @@
 # computer-geometry
-Компьютерная геометрия. Продолжение курса дифференциальная геометрия. Преподаватель: Геворкян Мигран Нельсонович
+
+# WARNING FOR THE SUBJECT MATES : I'VE ALREADY GOT THE MARK FOR THE LAB. PLEASE DO COPY & PASTE AT YOUR OWN RISK.
