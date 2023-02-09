@@ -7,3 +7,6 @@ lab05 - TCB spline, cubic spline.
 lab06 - Bernstein polynom, Bezier curve from Bernstein polynom, Casteljaus algorithm of Bezier curves.  
 lab07 -    
 lab08 - B-Spline.  
+
+### De Casteljau Algorithm 
+This [algorithm](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm) is simply the recursive averaging of the points on previous step. 
